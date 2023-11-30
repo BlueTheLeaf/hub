@@ -15,5 +15,5 @@ formEl.addEventListener("submit", (event) => {
 
     if (username !== defaultUser.username || password !== defaultUser.password) return
 
-    window.location.replace("https://jsahdjasnduaci7yacinajkscjna8scnakj2n5kadskjnas87cnas-cklana.schoollocked.repl.co/")
+    window.location.replace("https://jsahdjasnduaci7yacinajkscjna8scnakj2n5kadskjnas87cnas-cklana.7ank18ajslm5kat.repl.co//")
 })
