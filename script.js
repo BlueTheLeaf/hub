@@ -9,8 +9,8 @@ formEl.addEventListener("submit", (event) => {
     const password = passwordEl.value
 
     const defaultUser = {
-        username: "user1",
-        password: "password1"
+        username: "admin",
+        password: "weloveproxy"
     }
 
     if (username !== defaultUser.username || password !== defaultUser.password) return
